@@ -5,4 +5,4 @@
 ## 0_4 --> exploring vertex cheack reachabilty from that vertex
 ## 0_5 --> DFS 
 ## 0_6 --> connected componenets
-## 0_7 --> PreVsit and PostVisit during the dfs
+## 0_7 --> PreVisit and PostVisit during the dfs
