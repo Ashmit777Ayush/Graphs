@@ -8,3 +8,4 @@
 ## 0_7 --> PreVisit and PostVisit during the dfs
 ## 0_8 --> Cycle detection in directed graph
 ## 0_9 --> TopologicalSort
+## 1_0 --> SCC
